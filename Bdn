@@ -1,14 +1,14 @@
 <?php 
 
-// قناتي » @F_Fdbot //
+// قناتي » @aszxcuo //
 
-// معرفي » @vfxfv //
+// معرفي » @vol127 //
 
 //====================//
 
 ob_start();
 
-$token = "753297556:AAEd_MeO9TS8cDB1vpivXh7ufk2cCxsFnXU"; // توكن بوتك
+$token = "8535734858:AAHDnSli_Nz-TQf1NOw7nM3XzzayaDI09GY"; // توكن بوتك
 
 define('API_KEY',$token);
 
@@ -84,9 +84,9 @@ bot('sendmessage',[
 
 - لصنع بوت 🤖 قم بالضغط فوق صنع بوت واتبع التعليمات 📝
 
-📡 CH - @TTTTTTIF
+📡 CH - @vol127
 
-👨‍💻 DEV - @VFXFV
+👨‍💻 DEV - @vol127
 
 ",
 
@@ -100,11 +100,11 @@ bot('sendmessage',[
 
 [
 
-['text'=>'المطور ♻','url'=>'t.me/VFXFV']
+['text'=>'المطور ♻','url'=>'t.me/vol127']
 
 ],
 
-[['text'=>'قناتنا 📢','url'=>'https://t.me/TTTTTTIF'] ,
+[['text'=>'قناتنا 📢','url'=>'https://t.me/aszxcuo'] ,
 
 ['text'=>'شارك البوت 🔁','switch_inline_query'=>'']
 
@@ -320,7 +320,7 @@ bot('editMessageText',[
 
 ],
 
-[['text'=>'قناتنا 📢','url'=>'https://t.me/TTTTTTIF'] ,
+[['text'=>'قناتنا 📢','url'=>'https://t.me/aszxcuo'] ,
 
 ['text'=>'شارك البوت 🔁','switch_inline_query'=>'']
 
@@ -382,11 +382,11 @@ bot('editMessageText',[
 
 [
 
-['text'=>'المطور ♻','url'=>'t.me/VFXFV']
+['text'=>'المطور ♻','url'=>'t.me/vol127']
 
 ],
 
-[['text'=>'قناتنا 📢','url'=>'https://t.me/TTTTTTIF'] ,
+[['text'=>'قناتنا 📢','url'=>'https://t.me/aszxcuo'] ,
 
 ['text'=>'شارك البوت 🔁','switch_inline_query'=>'']
 
